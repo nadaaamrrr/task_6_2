@@ -35,8 +35,7 @@ class MyApp extends StatelessWidget {
         borderRadius: BorderRadius.circular(50),
         gradient: LinearGradient(
           colors: [Colors.white, Colors.blue],
-          begin: Alignment.centerLeft,
-          end: Alignment.centerRight,
+     
         ),
       ),
       child: Row(
@@ -54,8 +53,7 @@ class MyApp extends StatelessWidget {
         borderRadius: BorderRadius.circular(50),
         gradient: LinearGradient(
           colors: [Colors.white, Colors.blue],
-          begin: Alignment.centerLeft,
-          end: Alignment.centerRight,
+   
         ),
       ),
       child: Row(
@@ -73,8 +71,7 @@ class MyApp extends StatelessWidget {
         borderRadius: BorderRadius.circular(50),
         gradient: LinearGradient(
           colors: [Colors.white, Colors.blue],
-          begin: Alignment.centerLeft,
-          end: Alignment.centerRight,
+        
         ),
       ),
       child: Row(
@@ -92,14 +89,13 @@ class MyApp extends StatelessWidget {
         borderRadius: BorderRadius.circular(50),
         gradient: LinearGradient(
           colors: [Colors.white, Colors.blue],
-          begin: Alignment.centerLeft,
-          end: Alignment.centerRight,
+         
         ),
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          Text("Call Me Maybe:", style: TextStyle(fontSize: 16)),
+          Text("instagram:", style: TextStyle(fontSize: 16)),
           Icon(Icons.camera),
         ],
       ),
